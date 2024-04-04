@@ -1,9 +1,12 @@
 # rofi-screenshot-tool
-A GUI tool using Rofi, Maim, FFMPEG, and GPU-Screen-Recorder for ShareX-like functionality.
+A GUI tool using Rofi, Maim, FFMPEG, and GPU-Screen-Recorder for ShareX-like functionality.  
+
+Rofi Applets (https://github.com/adi1090x/rofi) includes a premade screenshot tool. I recommend starting there to get an idea of how it works and is incorporated into the overall Rofi installation. This repo is for my own personal screenshot applet setup, demonstrating how the default applet can be modified to suit your needs.
 
 Dependencies:
 
 Rofi (X11): https://github.com/davatorium/rofi 
+
 Rofi (Wayland - Note, have not tested this on Wayland): https://github.com/lbonn/rofi#wayland-support 
 Rofi Applets: https://github.com/adi1090x/rofi 
 
